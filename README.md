@@ -40,3 +40,14 @@ The goal is to deliver a **production-grade data architecture** that demonstrate
 
 ## 📂 Repository Structure
 
+BuildSmartPro/
+│
+├── README.md
+├── Docs/
+│ └── BuildSmartPro_Report.pdf
+│
+└── SQL_Scripts/
+├── 01_Database_Creation.sql
+├── 02_Indexing_and_Constraints.sql
+├── 03_Stored_Procedures_and_Triggers.sql
+└── 04_Complex_Queries.sql
